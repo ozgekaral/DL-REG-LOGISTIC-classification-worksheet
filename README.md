@@ -1,1 +1,1 @@
-# Deep Learning for REG-CLASS-OVERFİTTİG / OBJECT DETECTİON WİTH CNN-RESNET
+# Deep Learning for REG-LOGİSTİC Classification
